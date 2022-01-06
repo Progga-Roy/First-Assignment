@@ -1,0 +1,202 @@
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #92A9BD;
+   
+}
+section{
+    display: flex;
+}
+.first-div{
+    width: 50%;
+    margin: 100px 120px;
+}
+
+.first-div h1{
+    font-size: 60px;
+    border-left: 5px solid;
+    border-radius: 1%;
+    border-image: linear-gradient(180deg,#57CC99,#38A3A5,#22577A);
+    border-image-slice: 1;
+    padding: 0 15px;
+   
+   
+}
+span{
+ color: #b60303;
+    
+}
+ .first-div p{
+    font-size: 19px;
+    margin-top: 30px;
+    color: #362222;
+    padding: 10px 0;
+    letter-spacing: 2px;
+ }
+ .button {
+     text-decoration: none;
+     background:linear-gradient(#38A3A5,#22577A) ;
+     color:#fff ;
+     font-size: 18px;
+     padding: 15px 20px;
+     border-radius: 8px;
+     letter-spacing: 2px;
+ }
+ .first-div h4{
+     margin-top: 10%;
+     font-size: 18px;
+ }
+.second-div{
+    width: 50%;
+    margin-top: 40px;
+}
+.second-div img{
+    width: 80%;
+    margin-top: 30px;
+
+}
+
+.section-div{
+    display: flex;
+    margin: 50px 60px 50px 120px;
+}
+#mission-header{
+   text-align: center;
+   font-size: 30px;
+
+}
+.logos{
+  width: 33%;
+}
+.mission{
+background: #6998AB;
+width: 33%;
+padding: 10px 15px;
+border-radius: 10px;
+letter-spacing: 2px;
+box-shadow: 2px 2px 5px black;
+
+}
+.vission{
+    width: 33%;
+    margin-left: 2%;
+    padding: 10px 15px;
+    background: #F9C5D5;
+    border-radius: 10px;
+    letter-spacing: 2px;
+    box-shadow: 2px 2px 5px black;
+}
+.goals{
+    width: 33%;
+    margin-left: 2%;
+    padding: 10px 15px;
+    background: #A6CF98;
+    border-radius: 10px;
+    letter-spacing: 2px;
+    box-shadow: 2px 2px 5px black;
+}
+
+section{
+    display: flex;
+
+}
+.developing-section{
+    margin: 100px 100px;
+
+}
+.developing-codes{
+    width: 50%;
+
+}
+.coding-img{
+    width: 80%;
+}
+.documentation{
+    width: 50%;
+    margin-right: 100px;
+}
+.documentation h1{
+  
+    font-size: 40px;
+  
+}
+.documentation p{
+    font-size: 20px;
+    padding: 10px 0;
+    letter-spacing: 2px;
+
+}
+
+.form-div{
+    text-align: center;
+    background: #5584AC;
+    padding: 30px;
+
+}
+.form-div h1{
+    font-size: 50px;
+    color:#1a1a8f;
+    letter-spacing: 2px;
+}
+.form-div h3{
+    font-size: 22px;
+    color: #fff;
+    letter-spacing: 2px;
+   
+}
+
+
+input{
+    width: 50%;
+    padding: 15px 15px;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 8px;
+    background: #95D1CC;
+    border: 0;
+    font-weight: 700;
+}
+textarea{
+    margin-top: 30px;
+    width: 51%;
+    font-size: 18px;
+    padding: 10px 10px;
+    border-radius: 8px;
+    font-weight: 700;
+    background: #95D1CC;
+}
+button{
+    margin-top: 20px;
+    margin: 10px 0;
+    padding: 15px 10px;
+    width: 10%;
+    border-radius: 8px;
+    font-size: 20px;
+    background: linear-gradient(#7fbdb8,#456b8d);
+    color:black;
+    box-shadow: 3px 3px 7px rgb(7, 7, 7);
+}
+
+footer{
+    text-align: center;
+    width:100%;
+    height:20%; 
+    position:absolute;
+    right: 0;
+    left:0;
+    background-color:black;
+    }
+
+    footer h1{
+        font-family: cursive;
+        color: blanchedalmond;
+    }
+    
+    footer p{
+        color:  #5584AC;
+        letter-spacing: 2px;
+    }
+   
